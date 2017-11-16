@@ -101,7 +101,7 @@ class FullNameParser {
       'Doc.' => array('associate professor'),
       ' ' => array('the')
     ),
-    'compound' => array('da','de','del','della', 'dem', 'den', 'der','di','du', 'het', 'la', 'onder', 'op', 'pietro','st.','st','\'t', 'ten', 'ter','van','vanden','vere','von'),
+    'compound' => array('da','de','del','della', 'dem', 'den', 'der','di','du', 'het', 'la', 'mac', 'onder', 'op', 'pietro','st.','st','\'t', 'ten', 'ter','van','vanden','vere','von'),
     'suffixes' => array(
       'line' => array('I','II','III','IV','V','1st','2nd','3rd','4th','5th','Senior','Junior','Jr','Sr'),
       'prof' => array('AO', 'B.A.', 'M.Sc', 'BCompt', 'PhD', 'Ph.D.','APR','RPh','PE','MD', 'M.D.', 'MA','DMD','CME', 'BSc', 'Bsc', 'BSc(hons)', 'Ph.D.', 'BEng', 'M.B.A.', 'MBA', 'FAICD', 'CM', 'OBC', 'M.B.', 'ChB', 'FRCP', 'FRSC',
